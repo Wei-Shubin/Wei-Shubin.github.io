@@ -18,28 +18,33 @@
 - [Research-Experience](#research-experience)
 - [Awards](#awards)
 - [Publications](#publications)
+- [News](#News)
 
 ---
 
 ## Education
 - **Sun Yat-sen University (SYSU)**  
-  B.S. in Geophysics, School of Earth Sciences and Engineering
-
+  School of Earth Sciences and Engineering (Undergraduate, In Progress)
+  
 ## Research Interests
 - Deep Learning for Geophysical Applications  
-- Ambient Noise Cross-correlation and Surface Wave Dispersion  
-- Computational Seismology  
+- Computer Science 
 
 ## Skills
 - Programming: **C++**, **Python**, **MATLAB**  
 - Tools: Git, Linux, LaTeX  
 
 ## Research Experience
-- **Provincial Innovation Project**  
-  Deep Learning-based Earthquake and Tsunami Hazard Prediction  
+- **Provincial College Student Innovation and Entrepreneurship Training Program** (2023 – 2024)  
+  Project: Deep Learning-based Earthquake and Tsunami Hazard Prediction
+  Supervisor: [Professor Linlin Li](https://gs.sysu.edu.cn/teacher/LiLinlin)
 
 ## Awards
-- None yet  
+- **National Scholarship (2024–2025)**, Sun Yat-sen University
 
 ## Publications
-- None yet  
+- None yet
+
+## News
+- Presented a poster at **The 4th International Symposium on Water Disaster Mitigation and Water Environment Regulation**
+
