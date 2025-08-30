@@ -36,8 +36,8 @@
 
 ## Research Experience
 - **Provincial College Student Innovation and Entrepreneurship Training Program** (2023 – 2024)  
-  Project: Deep Learning-based Earthquake and Tsunami Hazard Prediction
-  Supervisor: [Professor Linlin Li](https://gs.sysu.edu.cn/teacher/LiLinlin)
+  - **Project:** Deep Learning-based Earthquake and Tsunami Hazard Prediction  
+  - **Supervisor:** [Professor Linlin Li](https://gs.sysu.edu.cn/teacher/LiLinlin)
 
 ## Awards
 - **National Scholarship (2024–2025)**, Sun Yat-sen University
@@ -47,4 +47,7 @@
 
 ## News
 - Presented a poster at **The 4th International Symposium on Water Disaster Mitigation and Water Environment Regulation**
+<p align="center">
+  <img src="WDWE2024.jpg" alt="Poster Presentation" width="600">
+</p>
 
