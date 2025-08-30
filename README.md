@@ -48,6 +48,6 @@
 ## News
 - Presented a poster at **The 4th International Symposium on Water Disaster Mitigation and Water Environment Regulation**
 <p align="center">
-  <img src="WDWE2024.jpg" alt="Poster Presentation" width="600">
+  <img src="WDWE2024.jpg" alt="WDWE2024" width="600">
 </p>
 
